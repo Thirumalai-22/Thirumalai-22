@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Gmail-thirumalait180-111827?style=flat-square&logo=gmail&logoColor=38BDF8&labelColor=111827&color=111827" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/thirumalai-p-931505369/">
+<a href="www.linkedin.com/in/p-thirumalai">
   <img src="https://img.shields.io/badge/LinkedIn-Thirumalai%20P-111827?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=111827&color=111827" />
 </a>
 &nbsp;
@@ -495,7 +495,7 @@ Quality-driven · Good Communication
   <circle cx="78" cy="188" r="13" fill="#38BDF8" opacity="0.12"/>
   <text x="78" y="193" text-anchor="middle" font-size="12" fill="#38BDF8" filter="url(#glow)">in</text>
   <text x="98" y="183" font-family="'Segoe UI', system-ui, sans-serif" font-size="9.5" fill="#38BDF8" opacity="0.7" font-weight="600" letter-spacing="1">LINKEDIN</text>
-  <text x="98" y="198" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#e2e8f0">https://www.linkedin.com/in/thirumalai-p-7871a82b1/</text>
+  <text x="98" y="198" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#e2e8f0">www.linkedin.com/in/p-thirumalai</text>
 
   <!-- GitHub -->
   <rect x="277" y="164" width="206" height="48" rx="10" fill="#A78BFA" opacity="0.05"/>
