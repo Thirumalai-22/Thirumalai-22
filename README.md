@@ -20,6 +20,10 @@
   <img src="https://img.shields.io/badge/GitHub-Thirumalai--22-111827?style=flat-square&logo=github&logoColor=A78BFA&labelColor=111827&color=111827" />
 </a>
 &nbsp;
+<a href="https://thirumalai-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-thirumalai.vercel.app-111827?style=flat-square&logo=vercel&logoColor=38BDF8&labelColor=111827&color=111827" />
+</a>
+&nbsp;
 <img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=38BDF8&labelColor=111827&color=111827" />
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=Thirumalai-22&color=38BDF8&style=flat-square&label=Profile+Views" />
@@ -221,18 +225,6 @@ Tour booking platform with package listings, booking management, and admin panel
 <div align="center">
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-22&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=A78BFA&point=38BDF8" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Thirumalai-22&theme=darkhub&no-frame=true&row=1&column=6&margin-w=4" />
 
 </div>
 
