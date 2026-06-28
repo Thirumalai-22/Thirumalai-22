@@ -511,7 +511,7 @@ Quality-driven · Good Communication
   <circle cx="536" cy="188" r="13" fill="#38BDF8" opacity="0.12"/>
   <text x="536" y="193" text-anchor="middle" font-size="12" fill="#38BDF8" filter="url(#glow)">◈</text>
   <text x="556" y="183" font-family="'Segoe UI', system-ui, sans-serif" font-size="9.5" fill="#38BDF8" opacity="0.7" font-weight="600" letter-spacing="1">PORTFOLIO</text>
-  <text x="556" y="198" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#e2e8f0">thirumalai-portfolio.vercel.app</text>
+  <text x="556" y="198" font-family="'Segoe UI', system-ui, sans-serif" font-size="11" fill="#e2e8f0">http://thirumalai-portfolio.vercel.app/</text>
 </svg>
 
 </div>
