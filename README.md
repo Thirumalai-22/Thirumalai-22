@@ -17,7 +17,7 @@
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/p-thirumalai/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=111827&color=111827" />
+  <img src="https://img.shields.io/badge/LinkedIn-p-thirumalai-111827?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=111827&color=111827" />
 </a>
 &nbsp;
 <a href="https://github.com/Thirumalai-22">
