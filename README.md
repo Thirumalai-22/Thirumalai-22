@@ -5,7 +5,7 @@
 \<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0E7490,70:6D28D9,100:020617&height=230&section=header&text=THIRUMALAI%20P&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20MCA%20CANDIDATE&descSize=17&descAlignY=58&descColor=BAE6FD](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,35:0E7490,70:6D28D9,100:020617\&height=230\&section=header\&text=THIRUMALAI%20P\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=36\&animation=twinkling\&desc=FULL-STACK%20DEVELOPER%20%7C%20MCA%20CANDIDATE\&descSize=17\&descAlignY=58\&descColor=BAE6FD)" />
 
 \<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Digital+Solutions;Python+%7C+Flask+%7C+SQL+%7C+MySQL;Full-Stack+Development+%7C+Data+Science;Always+Learning.+Always+Building](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Building+Ideas+Into+Digital+Solutions;Python+%7C+Flask+%7C+SQL+%7C+MySQL;Full-Stack+Development+%7C+Data+Science;Always+Learning.+Always+Building)." />
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Digital+Solutions;Python+%7C+Flask+%7C+SQL+%7C+MySQL;Full-Stack+Development+%7C+Data+Science;Always+Learning.+Always+Building](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Building+Ideas+Into+Digital+Solutions;Python+%7C+Flask+%7C+SQL+%7C+MySQL;Full-Stack+Development+%7C+Data+Science;Always+Learning.+Always+Building)" />
 \</a>
 
 \<br/>
@@ -102,8 +102,7 @@ A library management application that automates book issuance, returns, fine cal
 \<a href="[https://github.com/Thirumalai-22/smartlib-management-system](https://github.com/Thirumalai-22/smartlib-management-system)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 \<a href="[https://smartlib-management-system.onrender.com](https://smartlib-management-system.onrender.com)">\<img src="[https://img.shields.io/badge/Live_Demo-Visit-0891B2?style=flat-square&logo=render](https://img.shields.io/badge/Live_Demo-Visit-0891B2?style=flat-square\&logo=render)"/>\</a>
 
-\</td>
-\<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### 🛒 Sports Items E-Commerce
 
@@ -115,10 +114,7 @@ An e-commerce platform featuring product catalogues, shopping cart, dynamic prod
 
 \<a href="[https://github.com/Thirumalai-22/sports-items-selling-store](https://github.com/Thirumalai-22/sports-items-selling-store)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
 ### 💼 Job Portal System
 
@@ -130,8 +126,7 @@ A job portal with authentication and role-based access for job seekers and emplo
 
 \<a href="[https://github.com/Thirumalai-22/job-portal-system](https://github.com/Thirumalai-22/job-portal-system)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-\</td>
-\<td width="50%" valign="top">
+\</td> \<td width="50%" valign="top">
 
 ### 🍽️ Food Order & Delivery System
 
@@ -168,10 +163,7 @@ An online food ordering platform with menu browsing, shopping cart management an
 
 \<a href="[https://github.com/Thirumalai-22/delicious-bites-store](https://github.com/Thirumalai-22/delicious-bites-store)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-\</td>
-\</tr>
-\<tr>
-\<td width="50%" valign="top">
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
 ### 🚀 Galaxy Glide – 2D Space Game
 
@@ -236,18 +228,14 @@ An MCA mini-project designed to create balanced student teams based on skills, p
 
 ## 🏆 Certifications & Workshops
 
-\<div align="center">
-
 | Certifications                                 | Workshops & Activities                       |
-| :--------------------------------------------- | :------------------------------------------- |
+| ---------------------------------------------- | -------------------------------------------- |
 | Oracle Cloud Infrastructure Foundations        | Vibe Coding with AI Tools                    |
 | NIIT Foundation – Digital Productivity         | Coding with AI: From Idea to App             |
 | Infosys – Threat Modelling                     | React Native & Firebase                      |
 | Infosys – Identity Governance & Administration | Django REST Framework                        |
 | Introduction to UI/UX Design                   | Front-End Technologies                       |
 | Data Visualization Techniques                  | SHINE '25 – Organizing Committee Coordinator |
-
-\</div>
 
 ---
 
@@ -279,9 +267,7 @@ An MCA mini-project designed to create balanced student teams based on skills, p
 
 ## 🧠 Professional Competencies
 
-\<table>
-\<tr>
-\<td width="33%" align="center">
+\<table> \<tr> \<td width="33%" align="center">
 
 ### 💻 Technical
 
@@ -293,8 +279,7 @@ Code Optimization
 
 Data Analysis
 
-\</td>
-\<td width="33%" align="center">
+\</td> \<td width="33%" align="center">
 
 ### 🤝 Personal
 
@@ -306,8 +291,7 @@ Time Management
 
 Adaptability
 
-\</td>
-\<td width="33%" align="center">
+\</td> \<td width="33%" align="center">
 
 ### 🚀 Growth
 
@@ -361,3 +345,4 @@ Quality Focus
 \<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0E7490,70:6D28D9,100:020617&height=130&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,35:0E7490,70:6D28D9,100:020617\&height=130\&section=footer\&animation=twinkling)"/>
 
 \</div>
+
