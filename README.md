@@ -1,466 +1,291 @@
- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thirumalai%20P&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20MCA%20Candidate&descAlignY=52" />
 
-<div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Thirumalai+%F0%9F%91%8B;Full-Stack+Developer+%7C+MCA+Candidate;Python+%7C+Flask+%7C+PHP+%7C+MySQL;Building+Real-World+Web+Applications;Exploring+Data+Science+%26+Machine+Learning" alt="Typing SVG" />
-</a>
+\<div align="center">
 
-<br/>
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0E7490,70:6D28D9,100:020617&height=230&section=header&text=THIRUMALAI%20P&fontSize=48&fontColor=FFFFFF&fontAlignY=36&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20MCA%20CANDIDATE&descSize=17&descAlignY=58&descColor=BAE6FD](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,35:0E7490,70:6D28D9,100:020617\&height=230\&section=header\&text=THIRUMALAI%20P\&fontSize=48\&fontColor=FFFFFF\&fontAlignY=36\&animation=twinkling\&desc=FULL-STACK%20DEVELOPER%20%7C%20MCA%20CANDIDATE\&descSize=17\&descAlignY=58\&descColor=BAE6FD)" />
 
-*Tirupattur, Tamil Nadu, India*
+\<a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+\<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Ideas+Into+Digital+Solutions;Python+%7C+Flask+%7C+SQL+%7C+MySQL;Full-Stack+Development+%7C+Data+Science;Always+Learning.+Always+Building](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=20\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=700\&lines=Building+Ideas+Into+Digital+Solutions;Python+%7C+Flask+%7C+SQL+%7C+MySQL;Full-Stack+Development+%7C+Data+Science;Always+Learning.+Always+Building)." />
+\</a>
 
-<br/>
+\<br/>
 
-<a href="mailto:thirumalait180@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-thirumalait180-111827?style=flat-square&logo=gmail&logoColor=38BDF8&labelColor=111827&color=111827" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/p-thirumalai/">
-  <img src="https://img.shields.io/badge/LinkedIn-p.thirumalai-111827?style=flat-square&logo=linkedin&logoColor=38BDF8&labelColor=111827&color=111827" />
-</a>
-&nbsp;
-<a href="https://github.com/Thirumalai-22">
-  <img src="https://img.shields.io/badge/GitHub-Thirumalai--22-111827?style=flat-square&logo=github&logoColor=A78BFA&labelColor=111827&color=111827" />
-</a>
-&nbsp;
-<a href="https://thirumalai-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=flat-square&logo=vercel&logoColor=38BDF8&labelColor=111827&color=111827" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu%2C%20India-111827?style=flat-square&logo=googlemaps&logoColor=38BDF8&labelColor=111827&color=111827" />
+\<a href="mailto\:thirumalait180\@gmail.com">\<img src="[https://img.shields.io/badge/EMAIL-Contact%20Me-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335](https://img.shields.io/badge/EMAIL-Contact%20Me-0F172A?style=for-the-badge\&logo=gmail\&logoColor=EA4335)"/>\</a>
+\<a href="[https://www.linkedin.com/in/p-thirumalai/](https://www.linkedin.com/in/p-thirumalai/)">\<img src="[https://img.shields.io/badge/LINKEDIN-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2](https://img.shields.io/badge/LINKEDIN-Connect-0F172A?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)"/>\</a>
+\<a href="[https://github.com/Thirumalai-22](https://github.com/Thirumalai-22)">\<img src="[https://img.shields.io/badge/GITHUB-Follow-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF](https://img.shields.io/badge/GITHUB-Follow-0F172A?style=for-the-badge\&logo=github\&logoColor=FFFFFF)"/>\</a>
+\<a href="[https://thirumalai-portfolio.vercel.app/](https://thirumalai-portfolio.vercel.app/)">\<img src="[https://img.shields.io/badge/PORTFOLIO-Explore-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF](https://img.shields.io/badge/PORTFOLIO-Explore-0F172A?style=for-the-badge\&logo=vercel\&logoColor=FFFFFF)"/>\</a>
 
-<br/><br/>
+\<br/>\<br/>
 
-<a href="./THIRUMALAI_RESUME.pdf">
-  <img src="https://img.shields.io/badge/Download-Resume-38BDF8?style=for-the-badge&logo=adobeacrobatreader&logoColor=0d1117" alt="Download Resume" />
-</a>
-&nbsp;
-<a href="./Thirumalai_P_CV.pdf">
-  <img src="https://img.shields.io/badge/Download-CV-A78BFA?style=for-the-badge&logo=adobeacrobatreader&logoColor=0d1117" alt="Download CV" />
-</a>
+\<a href="./THIRUMALAI_RESUME.pdf">\<img src="[https://img.shields.io/badge/⬇\_DOWNLOAD-RESUME-0284C7?style=for-the-badge](https://img.shields.io/badge/⬇_DOWNLOAD-RESUME-0284C7?style=for-the-badge)"/>\</a>
+\<a href="./Thirumalai_P_CV.pdf">\<img src="[https://img.shields.io/badge/⬇\_DOWNLOAD-CV-7C3AED?style=for-the-badge](https://img.shields.io/badge/⬇_DOWNLOAD-CV-7C3AED?style=for-the-badge)"/>\</a>
 
-<br/><br/>
+\<br/>\<br/>
 
-<img src="https://komarev.com/ghpvc/?username=Thirumalai-22&color=38BDF8&style=flat-square&label=Profile+Views" />
+\<img src="[https://komarev.com/ghpvc/?username=Thirumalai-22&style=for-the-badge&color=0E7490&label=PROFILE+VISITORS](https://komarev.com/ghpvc/?username=Thirumalai-22\&style=for-the-badge\&color=0E7490\&label=PROFILE+VISITORS)"/>
 
-</div>
+\</div>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+## 🌌 About Me
 
-## ⚡ About Me
+\<img align="right" width="250" src="[https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)"/>
 
-I'm a **Full-Stack Developer and MCA candidate** at Sacred Heart College (Autonomous), Tirupattur, with hands-on experience in developing responsive, database-driven web applications using Python, Flask, PHP, MySQL, and modern front-end technologies.
+Hello! I'm **Thirumalai P**, a Full-Stack Developer and MCA candidate passionate about building practical, user-friendly software applications.
 
-I completed a **Python Full-Stack Development internship at Queenbug Technologies, Bangalore**, where I gained practical experience in backend development, frontend integration, database queries, debugging, and deployment workflows.
+- 🎓 Pursuing Master of Computer Applications (MCA).
+- 💻 Interested in Python Full-Stack Development.
+- 🐍 Hands-on experience with Python, Flask and SQL.
+- 📊 Pursuing a PG Diploma in Data Science.
+- 🚀 Completed a Python Full-Stack Development internship at Queenbug Technologies, Bangalore.
+- 🔍 Interested in software development, problem-solving and data analytics.
 
-My development experience includes building applications across multiple domains, including library management, job portals, e-commerce, tourism booking, food ordering, and student team formation systems.
+I enjoy transforming ideas into functional applications, exploring new technologies and continuously improving my development skills.
 
-Alongside my MCA, I'm pursuing a **PG Diploma in Data Science (PGDDS)**, expanding my knowledge of data analytics, visualization, and machine learning.
+**Career Goal:** Seeking an internship or entry-level Software Developer opportunity where I can contribute to real-world projects and grow as a developer.
 
-**Career Goal:** Seeking an internship or entry-level Software Developer / Python Developer opportunity where I can contribute my development skills, problem-solving abilities, and enthusiasm for learning.
+\<br clear="right"/>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+## ⚡ Technical Skills
 
-## 🛠 Tech Stack
+\<div align="center">
 
-<div align="center">
+### Programming & Web Technologies
 
-**Programming Languages & Web Technologies**
+\<img src="[https://skillicons.dev/icons?i=python,html,css,mysql,sqlite&theme=dark](https://skillicons.dev/icons?i=python,html,css,mysql,sqlite\&theme=dark)" />
 
-<img src="https://skillicons.dev/icons?i=python,php,html,css,js,mysql&theme=dark" height="48" />
+\<br/>\<br/>
 
-<br/><br/>
+### Frameworks & Libraries
 
-**Frameworks & Libraries**
+\<img src="[https://skillicons.dev/icons?i=bootstrap&theme=dark](https://skillicons.dev/icons?i=bootstrap\&theme=dark)" />
 
-<img src="https://skillicons.dev/icons?i=flask,bootstrap,react,angular,jquery&theme=dark" height="48" />
+\<br/>\<br/>
 
-<br/><br/>
+### Database & Development
 
-**Database Management**
+\<img src="[https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark](https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode\&theme=dark)" />
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" height="48" />
+\<br/>\<br/>
 
-<br/><br/>
+### Analytics, Deployment & Design
 
-**Development Tools & Version Control**
+\<img src="[https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=111827](https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=111827)"/> \<img src="[https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge&logo=vercel](https://img.shields.io/badge/Vercel-Deployment-000000?style=for-the-badge\&logo=vercel)"/> \<img src="[https://img.shields.io/badge/Render-Cloud%20Deployment-46E3B7?style=for-the-badge&logo=render&logoColor=111827](https://img.shields.io/badge/Render-Cloud%20Deployment-46E3B7?style=for-the-badge\&logo=render\&logoColor=111827)"/> \<img src="[https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=canva&logoColor=FFFFFF](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge\&logo=canva\&logoColor=FFFFFF)"/> \<img src="[https://img.shields.io/badge/GDevelop-Game%20Development-5B4BDB?style=for-the-badge](https://img.shields.io/badge/GDevelop-Game%20Development-5B4BDB?style=for-the-badge)"/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" height="48" />
+\</div>
 
-<br/><br/>
+**Additional Knowledge:** SQL queries, database management, UI/UX design, data visualization, debugging and version control.
 
-**Data Visualization & Analytics**
-
-<img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/Excel-111827?style=for-the-badge&logo=microsoftexcel&logoColor=38BDF8" />
-
-<br/><br/>
-
-**Cloud, Deployment & Design**
-
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="48" />
-&nbsp;
-<img src="https://img.shields.io/badge/Render-111827?style=for-the-badge&logo=render&logoColor=38BDF8" />
-&nbsp;
-<img src="https://img.shields.io/badge/Canva-111827?style=for-the-badge&logo=canva&logoColor=38BDF8" />
-&nbsp;
-<img src="https://img.shields.io/badge/UI%2FUX%20Design-111827?style=for-the-badge&logo=figma&logoColor=A78BFA" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+\<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Building Solutions Through Code
+
+\</div>
+
+\<table> \<tr> \<td width="50%" valign="top">
 
 ### 📚 SmartLib Management System
 
-A web-based library management system that automates book issuance, returns, fine calculations, student notifications, and library analytics.
+A library management application that automates book issuance, returns, fine calculations and student notifications, with analytics features.
 
-**Tech Stack**
+**Technologies**
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=A78BFA" />
+`Python` `Flask` `MySQL` `HTML5` `CSS3` `Bootstrap`
 
-<br/><br/>
+\<a href="[https://github.com/Thirumalai-22/smartlib-management-system](https://github.com/Thirumalai-22/smartlib-management-system)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
+\<a href="[https://smartlib-management-system.onrender.com](https://smartlib-management-system.onrender.com)">\<img src="[https://img.shields.io/badge/Live_Demo-Visit-0891B2?style=flat-square&logo=render](https://img.shields.io/badge/Live_Demo-Visit-0891B2?style=flat-square\&logo=render)"/>\</a>
 
-<a href="https://smartlib-management-system.onrender.com">
-  <img src="https://img.shields.io/badge/Live%20Demo-38BDF8?style=flat-square&logo=render&logoColor=0d1117" />
-</a>
-&nbsp;
-<a href="https://github.com/Thirumalai-22/smartlib-management-system">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
+\</td>
+\<td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+### 🛒 Sports Items E-Commerce
 
-### 🛒 Sports Items E-Commerce Store
+An e-commerce platform featuring product catalogues, shopping cart, dynamic product filtering and checkout functionality.
 
-An e-commerce application featuring product catalogues, shopping cart management, dynamic product search and filtering, and a multi-step checkout process.
+**Technologies**
 
-**Tech Stack**
+`Python` `SQLite` `Bootstrap` `HTML5` `CSS3`
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=A78BFA" />
+\<a href="[https://github.com/Thirumalai-22/sports-items-selling-store](https://github.com/Thirumalai-22/sports-items-selling-store)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-<br/><br/>
-
-<a href="https://github.com/Thirumalai-22/sports-items-selling-store">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 💼 Job Portal System
 
-A job portal application with user authentication and role-based access for job seekers and employers, supporting job postings, profiles, and application tracking.
+A job portal with authentication and role-based access for job seekers and employers, including job postings and application tracking.
 
-**Tech Stack**
+**Technologies**
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Flask-111827?style=flat-square&logo=flask&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=A78BFA" />
+`Python` `Flask` `MySQL` `Bootstrap`
 
-<br/><br/>
+\<a href="[https://github.com/Thirumalai-22/job-portal-system](https://github.com/Thirumalai-22/job-portal-system)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-<a href="https://github.com/Thirumalai-22/job-portal-system">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🗺️ Tourism Management System
-
-A tourism booking platform that allows users to explore three destination categories, browse tour packages, and manage reservations with search and filtering features.
-
-**Tech Stack**
-
-<img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/HTML5-111827?style=flat-square&logo=html5&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/CSS3-111827?style=flat-square&logo=css3&logoColor=A78BFA" />
-
-<br/><br/>
-
-<a href="https://github.com/Thirumalai-22/tourism-management-system">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
+\</td>
+\<td width="50%" valign="top">
 
 ### 🍽️ Food Order & Delivery System
 
-A restaurant ordering application featuring menu browsing, shopping cart management, and order-status tracking with a responsive interface.
+A restaurant ordering application with menu browsing, cart management and order-status tracking.
 
-**Tech Stack**
+**Technologies**
 
-<img src="https://img.shields.io/badge/JSP-111827?style=flat-square&logo=java&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/MySQL-111827?style=flat-square&logo=mysql&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=38BDF8" />
+`JSP` `MySQL` `HTML5` `CSS3` `Bootstrap`
 
-<br/><br/>
+\<a href="[https://github.com/Thirumalai-22/food-order-system](https://github.com/Thirumalai-22/food-order-system)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-<a href="https://github.com/Thirumalai-22/food-order-system">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
+\</td> \</tr> \<tr> \<td width="50%" valign="top">
 
-</td>
-<td width="50%" valign="top">
+### 🌍 Tourism Management System
+
+A tourism booking platform with destination categories, tour packages, reservation management and search functionality.
+
+**Technologies**
+
+`PHP` `MySQL` `HTML5` `CSS3`
+
+\<a href="[https://github.com/Thirumalai-22/tourism-management-system](https://github.com/Thirumalai-22/tourism-management-system)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
+
+\</td>
+\<td width="50%" valign="top">
 
 ### 🍔 Delicious Bites Store
 
-An online food ordering platform with menu browsing, cart management, and a checkout process, developed with a responsive user interface.
+An online food ordering platform with menu browsing, shopping cart management and checkout functionality.
 
-**Tech Stack**
+**Technologies**
 
-<img src="https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/SQLite-111827?style=flat-square&logo=sqlite&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=38BDF8" />
+`Python` `SQLite` `Bootstrap` `HTML5` `CSS3`
 
-<br/><br/>
+\<a href="[https://github.com/Thirumalai-22/delicious-bites-store](https://github.com/Thirumalai-22/delicious-bites-store)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-<a href="https://github.com/Thirumalai-22/delicious-bites-store">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚖️ TeamBalance – Student Team Formation System
-
-An MCA mini-project designed to create balanced student teams based on skills, proficiency, experience, roles, and project requirements.
-
-**Tech Stack**
-
-<img src="https://img.shields.io/badge/PHP-111827?style=flat-square&logo=php&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/AngularJS-111827?style=flat-square&logo=angular&logoColor=A78BFA" />
-<img src="https://img.shields.io/badge/ReactJS-111827?style=flat-square&logo=react&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Bootstrap-111827?style=flat-square&logo=bootstrap&logoColor=A78BFA" />
-
-</td>
-<td width="50%" valign="top">
+\</td>
+\</tr>
+\<tr>
+\<td width="50%" valign="top">
 
 ### 🚀 Galaxy Glide – 2D Space Game
 
-A 2D space game featuring collision detection, progressive difficulty levels, and live score tracking, developed using GDevelop 5.
+A 2D space game featuring collision detection, progressive difficulty levels and live scoring.
 
-**Tech Stack**
+**Technology**
 
-<img src="https://img.shields.io/badge/GDevelop5-111827?style=flat-square&logo=gdevelop&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Game%20Development-111827?style=flat-square&logo=unity&logoColor=A78BFA" />
+`GDevelop 5`
 
-<br/><br/>
+\<a href="[https://github.com/Thirumalai-22/Galaxy-Glide-2](https://github.com/Thirumalai-22/Galaxy-Glide-2)">\<img src="[https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square&logo=github](https://img.shields.io/badge/Source_Code-GitHub-0F172A?style=flat-square\&logo=github)"/>\</a>
 
-<a href="https://github.com/Thirumalai-22/Galaxy-Glide-2">
-  <img src="https://img.shields.io/badge/Source-111827?style=flat-square&logo=github&logoColor=A78BFA" />
-</a>
+\</td>
+\<td width="50%" valign="top">
 
-</td>
-</tr>
-</table>
+### 👥 TeamBalance – Student Team Formation
 
-</div>
+An MCA mini-project designed to create balanced student teams based on skills, proficiency, experience, roles and project requirements.
 
-<br/>
+**Project Technologies**
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+`PHP` `AngularJS` `ReactJS` `Bootstrap`
 
-## 📊 GitHub Statistics
+\</td>
+\</tr>
+\</table>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Thirumalai-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=A78BFA&text_color=c9d1d9" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&text_color=c9d1d9" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Thirumalai-22&theme=tokyonight&hide_border=true&background=0d1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" height="170" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-22&theme=react-dark&hide_border=true&bg_color=0d1117&color=38BDF8&line=A78BFA&point=38BDF8" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
-
-## 🎓 Education
-
-<div align="center">
-
-<table>
-<tr>
-<th>Qualification</th>
-<th>Institution</th>
-<th>Year</th>
-<th>Score / Status</th>
-</tr>
-<tr>
-<td><b>MCA</b><br/>Master of Computer Applications</td>
-<td>Sacred Heart College (Autonomous), Tirupattur</td>
-<td>2025–2027</td>
-<td>In Progress<br/>CGPA: 8.0</td>
-</tr>
-<tr>
-<td><b>PGDDS</b><br/>PG Diploma in Data Science</td>
-<td>Sacred Heart College (Autonomous), Tirupattur</td>
-<td>2026–2027</td>
-<td>In Progress</td>
-</tr>
-<tr>
-<td><b>BCA</b><br/>Bachelor of Computer Applications</td>
-<td>Unique College of Arts and Science, Karapattu, Krishnagiri</td>
-<td>2022–2025</td>
-<td>CGPA: 8.0</td>
-</tr>
-<tr>
-<td><b>HSC</b><br/>Higher Secondary</td>
-<td>Ramakrishna Higher Secondary School, Tirupattur</td>
-<td>2020–2022</td>
-<td>71.5%</td>
-</tr>
-<tr>
-<td><b>SSC</b><br/>Secondary School</td>
-<td>Government High School, Kodumampalli</td>
-<td>2019–2020</td>
-<td>75.6%</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+---
 
 ## 💼 Professional Experience
 
-<div align="center">
+\<div align="center">
 
-<table>
-<tr>
-<td>
+\<img src="[https://img.shields.io/badge/INTERNSHIP-Python%20Full--Stack%20Development-0E7490?style=for-the-badge](https://img.shields.io/badge/INTERNSHIP-Python%20Full--Stack%20Development-0E7490?style=for-the-badge)"/>
 
-### Python Full-Stack Developer Intern
+\</div>
 
-**Queenbug Technologies | Bangalore, India**
+### Queenbug Technologies – Bangalore
 
-📅 May 2026 | 3 Weeks
+**Python Full-Stack Developer Intern**
 
-- Developed full-stack application modules using Python, MySQL, HTML5, and Bootstrap.
-- Integrated backend services with frontend components to maintain consistent data flow.
-- Worked on database queries, debugging, and deployment workflows under senior developer guidance.
-- Used AI-assisted development tools to support coding and debugging tasks.
-- Gained practical exposure to software development workflows and collaborative development.
+📅 May 2026 · 3 Weeks
 
-</td>
-</tr>
-</table>
+- Developed full-stack application modules using Python, MySQL, HTML5 and CSS.
+- Connected backend services with frontend components.
+- Worked with database queries, debugging and deployment workflows.
+- Explored AI-assisted development tools to improve coding and debugging workflows.
+- Gained practical exposure to professional software development practices.
 
-</div>
+---
 
-<br/>
+## 🎓 Education
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+| Qualification              | Institution                                     | Year      | Score / Status      |
+| -------------------------- | ----------------------------------------------- | --------- | ------------------- |
+| MCA                        | Sacred Heart College (Autonomous), Tirupattur   | 2025–2027 | Pursuing · CGPA 8.0 |
+| PG Diploma in Data Science | Sacred Heart College (Autonomous), Tirupattur   | 2026–2027 | Pursuing            |
+| BCA                        | Unique College of Arts and Science, Krishnagiri | 2022–2025 | CGPA 8.0            |
+| HSC                        | Ramakrishna Higher Secondary School, Tirupattur | 2020–2022 | 71.5%               |
+| SSC                        | Government High School, Kodumampalli            | 2019–2020 | 75.6%               |
 
-## 🏅 Certifications
+---
 
-<div align="center">
+## 🏆 Certifications & Workshops
 
-<table>
-<tr>
-<td width="50%" valign="top">
+\<div align="center">
 
-**Professional Certifications**
+| Certifications                                 | Workshops & Activities                       |
+| :--------------------------------------------- | :------------------------------------------- |
+| Oracle Cloud Infrastructure Foundations        | Vibe Coding with AI Tools                    |
+| NIIT Foundation – Digital Productivity         | Coding with AI: From Idea to App             |
+| Infosys – Threat Modelling                     | React Native & Firebase                      |
+| Infosys – Identity Governance & Administration | Django REST Framework                        |
+| Introduction to UI/UX Design                   | Front-End Technologies                       |
+| Data Visualization Techniques                  | SHINE '25 – Organizing Committee Coordinator |
 
-- Oracle Certified – Cloud Infrastructure Foundations
-- NIIT Foundation – Digital Productivity
-- Infosys Springboard – Threat Modelling
-- Infosys Springboard – Identity Governance & Administration
+\</div>
 
-</td>
-<td width="50%" valign="top">
+---
 
-**Online Courses**
+## 📊 GitHub Statistics
 
-- Introduction to UI/UX Design – Sacred Heart College
-- Data Visualization Techniques – Sacred Heart College
+\<div align="center">
 
-</td>
-</tr>
-</table>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api?username=Thirumalai-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0](https://github-readme-stats.vercel.app/api?username=Thirumalai-22\&show_icons=true\&theme=tokyonight\&hide_border=true\&bg_color=020617\&title_color=38BDF8\&icon_color=A78BFA\&text_color=E2E8F0)"/>
 
-</div>
+\<img width="49%" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=38BDF8&text_color=E2E8F0](https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai-22\&layout=compact\&theme=tokyonight\&hide_border=true\&bg_color=020617\&title_color=38BDF8\&text_color=E2E8F0)"/>
 
-<br/>
+\<br/>\<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+\<img width="75%" src="[https://github-readme-streak-stats.herokuapp.com/?user=Thirumalai-22&theme=tokyonight&hide_border=true&background=020617&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8](https://github-readme-streak-stats.herokuapp.com/?user=Thirumalai-22\&theme=tokyonight\&hide_border=true\&background=020617\&ring=38BDF8\&fire=A78BFA\&currStreakLabel=38BDF8)"/>
 
-## 📚 Workshops & Co-Curricular Activities
+\</div>
 
-- **Vibe Coding with AI Tools** – National Level Workshop, Sacred Heart College (Autonomous) – 9 Feb 2026
-- **Coding with AI: From Idea to App** – National Level Workshop, Sacred Heart College (Autonomous) – 19 Feb 2026
-- **React Native & Firebase** – National Level Workshop, Sacred Heart College (Autonomous) – 10 Sep 2025
-- **Crafting with Django REST Framework** – National Level Workshop, Sacred Heart College (Autonomous) – 14 Feb 2025
-- **Front-End Technologies** – Two-Day Workshop, Unique College of Arts and Science – 8–10 Feb 2025
-- **Organizing Committee Coordinator** – SHINE '25 National Level Technical Symposium, Department of Computer Applications, Sacred Heart College – 30 Sep 2025
+---
 
-<br/>
+## 📈 Contribution Activity
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+\<div align="center">
+
+\<img width="100%" src="[https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-22&bg_color=020617&color=38BDF8&line=A78BFA&point=FFFFFF&area=true&hide_border=true&custom_title=My%20GitHub%20Contribution%20Graph](https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-22\&bg_color=020617\&color=38BDF8\&line=A78BFA\&point=FFFFFF\&area=true\&hide_border=true\&custom_title=My%20GitHub%20Contribution%20Graph)"/>
+
+\</div>
+
+---
 
 ## 🧠 Professional Competencies
 
-<div align="center">
+\<table>
+\<tr>
+\<td width="33%" align="center">
 
-<table>
-<tr>
-<td width="33%" align="center">
+### 💻 Technical
 
-**Technical Skills**
-
-Problem-solving
+Problem Solving
 
 Debugging
 
@@ -468,112 +293,71 @@ Code Optimization
 
 Data Analysis
 
-Full-Stack Development
+\</td>
+\<td width="33%" align="center">
 
-</td>
-<td width="33%" align="center">
-
-**Soft Skills**
+### 🤝 Personal
 
 Team Collaboration
+
+Communication
 
 Time Management
 
 Adaptability
 
+\</td>
+\<td width="33%" align="center">
+
+### 🚀 Growth
+
 Continuous Learning
-
-Communication
-
-</td>
-<td width="33%" align="center">
-
-**Work Ethic**
-
-Punctuality
-
-Reliability
 
 Attention to Detail
 
-Quality-focused
+Reliability
 
-</td>
-</tr>
-</table>
+Quality Focus
 
-</div>
+\</td>
+\</tr>
+\</table>
 
-<br/>
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
+## 🌐 Beyond Coding
 
-## 🌐 Additional Information
+- 🔭 Astronomy and space exploration
+- 🏏 Cricket
+- 💡 Emerging technology trends
+- 🌍 Open-source contribution
 
-- **Languages:** Tamil (Native), English (Professional Proficiency)
-- **Interests:** Astronomy, Cricket, Technology Trends, Open-Source Contribution
+**Languages:** Tamil (Native) · English (Professional Proficiency)
 
-<br/>
+---
 
-## 📬 Contact Me
+## 📬 Let's Connect
 
-<div align="center">
+\<div align="center">
 
-<table>
-<tr>
-<td align="center">
+\<img width="100%" src="[https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0E7490,100:6D28D9&height=100&text=LET](https://capsule-render.vercel.app/api?type=rect\&color=0:020617,50:0E7490,100:6D28D9\&height=100\&text=LET)'S%20BUILD%20SOMETHING%20GREAT&fontSize=23&fontColor=FFFFFF&fontAlignY=55"/>
 
-### Let's Connect!
+\<br/>
 
-I'm always interested in connecting with developers, exploring opportunities, collaborating on projects, and learning new technologies.
+\<a href="mailto\:thirumalait180\@gmail.com">\<img src="[https://img.shields.io/badge/Email-thirumalait180%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335](https://img.shields.io/badge/Email-thirumalait180%40gmail.com-0F172A?style=for-the-badge\&logo=gmail\&logoColor=EA4335)"/>\</a>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+\<a href="[https://www.linkedin.com/in/p-thirumalai/](https://www.linkedin.com/in/p-thirumalai/)">\<img src="[https://img.shields.io/badge/LinkedIn-p--thirumalai-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2](https://img.shields.io/badge/LinkedIn-p--thirumalai-0F172A?style=for-the-badge\&logo=linkedin\&logoColor=0A66C2)"/>\</a>
 
-<a href="mailto:thirumalait180@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-111827?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
-</a>
+\<a href="[https://github.com/Thirumalai-22](https://github.com/Thirumalai-22)">\<img src="[https://img.shields.io/badge/GitHub-Thirumalai--22-0F172A?style=for-the-badge&logo=github](https://img.shields.io/badge/GitHub-Thirumalai--22-0F172A?style=for-the-badge\&logo=github)"/>\</a>
 
-<a href="https://www.linkedin.com/in/p-thirumalai/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
-</a>
+\<a href="[https://thirumalai-portfolio.vercel.app/](https://thirumalai-portfolio.vercel.app/)">\<img src="[https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge&logo=vercel](https://img.shields.io/badge/Portfolio-Visit%20Website-0F172A?style=for-the-badge\&logo=vercel)"/>\</a>
 
-<a href="https://github.com/Thirumalai-22">
-  <img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
-</a>
+\<br/>\<br/>
 
-<a href="https://thirumalai-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
-</a>
+*"Great things are built one line of code at a time."*
 
-</td>
-</tr>
-</table>
+\<br/>
 
-</div>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0E7490,70:6D28D9,100:020617&height=130&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving\&color=0:020617,35:0E7490,70:6D28D9,100:020617\&height=130\&section=footer\&animation=twinkling)"/>
 
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" />
-
-<br/>
-
-<div align="center">
-
-*"Code is not just syntax — it's a way of thinking."*
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Thirumalai-22&color=38BDF8&style=flat-square&label=Profile+Views" />
-
-<br/><br/>
-
-**Thanks for visiting my GitHub profile!**
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
+\</div>
