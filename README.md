@@ -26,230 +26,92 @@
 
 <img src="https://komarev.com/ghpvc/?username=Thirumalai-22&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" />
 
+<br/><br/>
+
+<img src="./assets/stats-tiles.svg" width="100%" alt="Quick stats"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
+<br/>
 
-## 👨‍💻 About Me
+<img src="./assets/h-about.svg" width="100%" alt="About Me"/>
 
-> *"Code is not just syntax — it's a way of thinking."*
+<br/>
 
-I'm a postgraduate Computer Applications student and aspiring Full-Stack Developer passionate about building practical, responsive, and database-driven web applications.
+<img src="./assets/about.svg" width="100%" alt="About Thirumalai P"/>
 
-Currently pursuing my **Master of Computer Applications (MCA)** at Sacred Heart College (Autonomous), Tirupattur, I have hands-on experience with **Python, Flask, MySQL, HTML, CSS**, and modern web development technologies.
+<br/>
 
-I completed a **Python Full-Stack Development Internship at Queenbug Technologies, Bangalore**, where I gained practical exposure to application development, backend integration, database operations, debugging, and AI-assisted development workflows.
+<img src="./assets/focus.svg" width="100%" alt="Current focus"/>
 
-I enjoy developing applications that solve real-world problems, exploring emerging technologies, and continuously improving my programming and problem-solving skills.
+<br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="./assets/h-skills.svg" width="100%" alt="Technical Skills"/>
 
-### 🎯 Current Focus
+<br/>
 
-- 🔹 Building full-stack web applications
-- 🔹 Improving Python & backend development skills
-- 🔹 Exploring Data Science, Analytics & Machine Learning
-- 🔹 Learning modern tools & AI-assisted workflows
-
-</td>
-<td width="50%" valign="top">
-
-### ⚡ Quick Facts
-
-- 🎓 MCA · CGPA 8.0
-- 💼 Python Full-Stack Intern @ Queenbug Technologies
-- 🌐 Tamil (Native) · English (Professional)
-- 🔭 Astronomy · Cricket · Open Source
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
-
-## 🛠️ Technical Skills
+<img src="./assets/skills.svg" width="100%" alt="Skills: Python, HTML, CSS, Flask, Bootstrap, MySQL, SQLite, GitHub, VS Code, Power BI, Excel, Pandas, NumPy, Vercel, Render, Canva"/>
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%"><b>🐍 Languages & Web</b></td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=python,html,css&theme=dark" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>⚙️ Frameworks</b></td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=flask,bootstrap&theme=dark" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>🗄️ Databases</b></td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>🧰 Dev Tools</b></td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=github,vscode&theme=dark" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>📊 Data & Analytics</b></td>
-<td align="left">
-<img src="https://img.shields.io/badge/Power%20BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
-<img src="https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346" />
-<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
-<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=4DABCF" />
-</td>
-</tr>
-<tr>
-<td align="center"><b>🚀 Deployment & Design</b></td>
-<td align="left">
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7" />
-<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC" />
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=python,html,css,flask,bootstrap,mysql,sqlite,github,vscode,vercel&theme=dark" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
+<br/>
 
-## 🚀 Featured Projects
+<img src="./assets/h-projects.svg" width="100%" alt="Featured Projects"/>
+
+<br/>
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 📚 SmartLib Management System
-
-Web-based library management app that automates book issuance, returns, fine calculation, student notifications, and library analytics.
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
-
-[🌐 Live Demo](https://smartlib-management-system.onrender.com) · [📂 Source Code](https://github.com/Thirumalai-22/smartlib-management-system)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/smartlib-management-system"><img src="./assets/project-1.svg" width="100%" alt="SmartLib Management System"/></a><br/>
+<a href="https://smartlib-management-system.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-22C55E?style=for-the-badge&logoColor=white"/></a> <a href="https://github.com/Thirumalai-22/smartlib-management-system"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 🛒 Sports Items E-Commerce Store
-
-Online sports shopping app with product catalogues, cart management, search, filtering, and a multi-step checkout process.
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=44A8E0)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=flat-square&logo=bootstrap&logoColor=7952B3)
-
-[📂 Source Code](https://github.com/Thirumalai-22/sports-items-selling-store)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/sports-items-selling-store"><img src="./assets/project-2.svg" width="100%" alt="Sports Items E-Commerce Store"/></a><br/>
+<a href="https://github.com/Thirumalai-22/sports-items-selling-store"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 💼 Job Portal System
-
-Connects job seekers and employers through registration, profile management, job postings, and application tracking.
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![Flask](https://img.shields.io/badge/Flask-0D1117?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=44A8E0)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-[📂 Source Code](https://github.com/Thirumalai-22/job-portal-system)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/job-portal-system"><img src="./assets/project-3.svg" width="100%" alt="Job Portal System"/></a><br/>
+<a href="https://github.com/Thirumalai-22/job-portal-system"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 🗺️ Tourism Management System
-
-Tourism booking platform to explore destinations, browse tour packages, search travel options, and manage reservations.
-
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-[📂 Source Code](https://github.com/Thirumalai-22/tourism-management-system)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/tourism-management-system"><img src="./assets/project-4.svg" width="100%" alt="Tourism Management System"/></a><br/>
+<a href="https://github.com/Thirumalai-22/tourism-management-system"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🍽️ Food Order & Delivery System
-
-Online food ordering app with restaurant menus, customer ordering, order management, and delivery tracking.
-
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![JSP](https://img.shields.io/badge/JSP-0D1117?style=flat-square&logo=jakartaee&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-
-[📂 Source Code](https://github.com/Thirumalai-22/food-order-system)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/food-order-system"><img src="./assets/project-5.svg" width="100%" alt="Food Order &amp; Delivery System"/></a><br/>
+<a href="https://github.com/Thirumalai-22/food-order-system"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
-<td width="50%" valign="top">
-
-### 🍔 Delicious Bites Store
-
-Responsive food ordering platform with menu browsing, cart management, and checkout.
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=44A8E0)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
-
-[📂 Source Code](https://github.com/Thirumalai-22/delicious-bites-store)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/delicious-bites-store"><img src="./assets/project-6.svg" width="100%" alt="Delicious Bites Store"/></a><br/>
+<a href="https://github.com/Thirumalai-22/delicious-bites-store"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### ⚖️ TeamBalance – Student Team Formation
-
-MCA mini-project that creates balanced student teams based on technical skills, proficiency, experience, roles, and project requirements.
-
-![PHP](https://img.shields.io/badge/PHP-0D1117?style=flat-square&logo=php&logoColor=777BB4)
-![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1)
-![AngularJS](https://img.shields.io/badge/AngularJS-0D1117?style=flat-square&logo=angularjs&logoColor=E23237)
-![ReactJS](https://img.shields.io/badge/ReactJS-0D1117?style=flat-square&logo=react&logoColor=61DAFB)
-
+<td width="50%" valign="top" align="center">
+<img src="./assets/project-7.svg" width="100%" alt="TeamBalance – Student Team Formation"/><br/>
+<img src="https://img.shields.io/badge/🎓_MCA_Mini_Project-6D28D9?style=for-the-badge"/>
 </td>
-<td width="50%" valign="top">
-
-### 🚀 Galaxy Glide – 2D Space Game
-
-2D arcade-style space game with spacecraft navigation, collision detection, progressive difficulty levels, and live score tracking.
-
-![GDevelop](https://img.shields.io/badge/GDevelop_5-0D1117?style=flat-square&logo=gdevelop&logoColor=white)
-![Game Dev](https://img.shields.io/badge/Game_Development-0D1117?style=flat-square)
-
-[📂 Source Code](https://github.com/Thirumalai-22/Galaxy-Glide-2)
-
+<td width="50%" valign="top" align="center">
+<a href="https://github.com/Thirumalai-22/Galaxy-Glide-2"><img src="./assets/project-8.svg" width="100%" alt="Galaxy Glide – 2D Space Game"/></a><br/>
+<a href="https://github.com/Thirumalai-22/Galaxy-Glide-2"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
+<br/>
 
-## 📊 GitHub Statistics
+<img src="./assets/h-stats.svg" width="100%" alt="GitHub Statistics"/>
+
+<br/>
 
 <div align="center">
 
@@ -266,90 +128,63 @@ MCA mini-project that creates balanced student teams based on technical skills, 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
-
-## 💼 Professional Experience
-
-<table>
-<tr>
-<td>
-
-### 🧑‍💻 Python Full-Stack Developer Intern
-**Queenbug Technologies** · Bangalore, India · 📅 *April – May 2026*
-
-- ✅ Gained practical experience in Python Full-Stack Development
-- ✅ Developed application modules using Python, HTML5, and Bootstrap
-- ✅ Worked with backend integration and database operations
-- ✅ Practiced debugging, code improvement, and application development workflows
-- ✅ Explored AI-assisted development using prompt engineering and modern AI tools
-- ✅ Gained exposure to collaborative development and deployment practices
-
-</td>
-</tr>
-</table>
-
-## 🎓 Education
-
-| 🎓 Qualification | 🏫 Institution | 📅 Duration | 📈 Score / Status |
-|:---|:---|:---:|:---:|
-| **MCA** | Sacred Heart College (Autonomous), Tirupattur | 2025–2027 | Pursuing · CGPA 8.0 |
-| **PGDDS** | Sacred Heart College (Autonomous), Tirupattur | 2026–2027 | Pursuing |
-| **BCA** | Unique College of Arts and Science, Karapattu, Krishnagiri | 2022–2025 | CGPA 8.0 |
-| **HSC** | Ramakrishna Higher Secondary School, Tirupattur | 2020–2022 | 71.5% |
-| **SSC** | Government High School, Kodumampalli | 2019–2020 | 75.6% |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
-
-## 🏅 Certifications & Courses
-
-| 📜 Certification / Course | 🏢 Organization |
-|:---|:---|
-| Oracle Certified – Cloud Infrastructure Foundations | Oracle |
-| Digital Productivity | NIIT Foundation |
-| Threat Modelling | Infosys Springboard |
-| Identity Governance & Administration | Infosys Springboard |
-| Introduction to UI/UX Design | Sacred Heart College |
-| Data Visualization Techniques | Sacred Heart College |
-
-<details>
-<summary><b>📚 Workshops & Activities (click to expand)</b></summary>
 <br/>
 
-- **Vibe Coding with AI Tools** – National Level Workshop, Sacred Heart College (9 February 2026)
-- **Coding with AI: From Idea to App** – National Level Workshop, Sacred Heart College (19 February 2026)
-- **React Native & Firebase** – National Level Workshop (10 September 2025)
-- **Crafting with Django REST Framework** – National Level Workshop (14 February 2025)
-- **Front-End Technologies** – Two-Day Workshop, Unique College of Arts and Science (8–10 February 2025)
-- **Organizing Committee Coordinator** – SHINE '25 National Level Technical Symposium, Sacred Heart College (30 September 2025)
+<img src="./assets/h-experience.svg" width="100%" alt="Professional Experience"/>
 
-</details>
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0E7490,100:6D28D9&height=3" width="100%" />
+<img src="./assets/experience.svg" width="100%" alt="Python Full-Stack Developer Intern at Queenbug Technologies, Bangalore (April-May 2026)"/>
 
-## 🧠 Professional Competencies
+<br/>
 
-| 💻 Technical Competencies | 🤝 Interpersonal Skills |
-|:---|:---|
-| Full-Stack Development | Team Collaboration |
-| Problem-Solving | Communication |
-| Debugging | Time Management |
-| Data Analysis | Adaptability |
-| Code Optimization | Continuous Learning |
-| Database Management | Attention to Detail |
+<img src="./assets/h-education.svg" width="100%" alt="Education"/>
 
-## 🌐 Additional Information
+<br/>
 
-- 🗣️ **Languages:** Tamil (Native), English (Professional Proficiency)
-- 🔭 **Interests:** Astronomy, Cricket, Technology Trends, Open-Source Contribution
-- 🎯 **Career Interests:** Software Development, Full-Stack Development, Python Development, Data Analytics
+<img src="./assets/education.svg" width="100%" alt="Education timeline: MCA, PGDDS, BCA, HSC, SSC"/>
 
----
+<br/>
 
-## 🤝 Let's Connect
+<img src="./assets/h-certs.svg" width="100%" alt="Certifications and Courses"/>
+
+<br/>
+
+<img src="./assets/certs.svg" width="100%" alt="Certifications"/>
+
+<br/>
+
+<img src="./assets/h-workshops.svg" width="100%" alt="Workshops and Activities"/>
+
+<br/>
+
+<img src="./assets/workshops.svg" width="100%" alt="Workshops and activities"/>
+
+<br/>
+
+<img src="./assets/h-skillset.svg" width="100%" alt="Professional Competencies"/>
+
+<br/>
+
+<img src="./assets/skillset.svg" width="100%" alt="Technical and interpersonal competencies"/>
+
+<br/>
+
+<img src="./assets/h-info.svg" width="100%" alt="Additional Information"/>
+
+<br/>
+
+<img src="./assets/info.svg" width="100%" alt="Languages, interests and career interests"/>
+
+<br/>
+
+<img src="./assets/h-connect.svg" width="100%" alt="Lets Connect"/>
+
+<br/>
+
+<img src="./assets/connect.svg" width="100%" alt="Lets build something together"/>
 
 <div align="center">
-
-I'm always interested in connecting with developers, collaborating on interesting projects, exploring new technologies, and discovering career opportunities.
 
 <br/>
 
