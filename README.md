@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0E7490,100:6D28D9&height=260&section=header&text=THIRUMALAI%20P&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Full-Stack%20Developer%20%E2%80%A2%20MCA%20Candidate&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0E7490,100:6D28D9&height=280&section=header&text=THIRUMALAI%20P&fontSize=64&fontColor=FFFFFF&fontAlignY=36&desc=Python%20Full-Stack%20Developer%20%E2%80%A2%20MCA%20Candidate&descAlignY=56&descSize=18&animation=fadeIn" alt="Thirumalai P header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Full-Stack+Developer;Python+%7C+Flask+%7C+MySQL+%7C+Bootstrap;Building+Database-Driven+Applications;Exploring+Data+Science+%26+Machine+Learning;Turning+Ideas+Into+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Python+Full-Stack+Developer;Python+%7C+Flask+%7C+MySQL+%7C+Bootstrap;Building+Database-Driven+Applications;Exploring+Data+Science+%26+Machine+Learning;Turning+Ideas+Into+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -24,13 +24,18 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Thirumalai-22&style=for-the-badge&color=0E7490&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Thirumalai-22&style=flat-square&color=0E7490&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br/><br/>
 
 <img src="./assets/stats-tiles.svg" width="100%" alt="Quick stats"/>
 
 </div>
+
+<br/>
+
+> [!TIP]
+> **Open to Software Developer roles.** I build database-driven web apps with Python, Flask and MySQL. If you have an opening or a project idea, [email me](mailto:thirumalait180@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/p-thirumalai/).
 
 <br/>
 
@@ -54,7 +59,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,flask,bootstrap,mysql,sqlite,github,vscode,vercel&theme=dark" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,flask,html,css,bootstrap,mysql,sqlite,git,github,vscode,vercel,pandas,numpy,powerbi&theme=dark&perline=7" alt="Tech stack icons" />
 
 </div>
 
@@ -68,7 +75,8 @@
 <tr>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/Thirumalai-22/smartlib-management-system"><img src="./assets/project-1.svg" width="100%" alt="SmartLib Management System"/></a><br/>
-<a href="https://smartlib-management-system.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-22C55E?style=for-the-badge&logoColor=white"/></a> <a href="https://github.com/Thirumalai-22/smartlib-management-system"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://smartlib-management-system.onrender.com"><img src="https://img.shields.io/badge/🌐_Live_Demo-22C55E?style=for-the-badge&logoColor=white"/></a>
+<a href="https://github.com/Thirumalai-22/smartlib-management-system"><img src="https://img.shields.io/badge/📂_Source_Code-0D1117?style=for-the-badge&logo=github&logoColor=white"/></a>
 </td>
 <td width="50%" valign="top" align="center">
 <a href="https://github.com/Thirumalai-22/sports-items-selling-store"><img src="./assets/project-2.svg" width="100%" alt="Sports Items E-Commerce Store"/></a><br/>
@@ -115,16 +123,16 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Thirumalai-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Thirumalai-22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&border_radius=12" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thirumalai-22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&border_radius=12" alt="Top languages" />
 
 <br/><br/>
 
-<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thirumalai-22&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" />
+<img width="75%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thirumalai-22&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&border_radius=12" alt="Streak stats" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-22&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=38BDF8" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Thirumalai-22&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=A78BFA&point=38BDF8" alt="Contribution activity graph" />
 
 </div>
 
@@ -195,8 +203,8 @@
 
 <br/><br/>
 
-**Thanks for visiting my GitHub profile! ⭐**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=A78BFA&center=true&vCenter=true&width=520&height=30&lines=Thanks+for+visiting+my+profile+%E2%AD%90;Let%27s+build+something+great+together" alt="Thanks for visiting" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,45:0E7490,100:6D28D9&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0E7490,100:6D28D9&height=140&section=footer" alt="Footer" />
 
 </div>
